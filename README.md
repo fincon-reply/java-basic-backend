@@ -1,3 +1,9 @@
+# Installation Claude Code
+
+Als Erstes möchten wir Claude Code installieren.
+
+Dazu besuchst du die [offizielle Doku](https://code.claude.com/docs/de/quickstart) von Claude und hälst dich an die Anleitung.
+
 # Einleitung
 
 Das hier ist ein Brown-Field Projekt. Das bedeutet, das dieses Projekt schon Code enthält.
