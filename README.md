@@ -35,8 +35,6 @@ An dieser Stelle möchten wir uns einen Überblick über den Kontext und Tokenve
 
 Dies machen wir über den Skill `/context`.
 
-![image](./docs/readme/context.png)
-
 ## Claude Skills
 
 ```bash
@@ -61,4 +59,3 @@ Bekannte sind:
 ## Installation
 
 Installiere jetzt die Skills von Mat Pocock.
-
